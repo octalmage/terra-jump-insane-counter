@@ -1,0 +1,10 @@
+{
+  "name": "my-terra-dapp",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "@terra-money/terrain": "0.2.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

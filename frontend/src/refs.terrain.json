@@ -1,0 +1,30 @@
+{
+  "localterra": {
+    "counter": {
+      "codeId": "17",
+      "contractAddresses": {
+        "default": "terra16wlw9lmyr2tuyugtfjjzfe5nrtvwyusygv6jyq"
+      }
+    },
+    "cw20-base": {
+      "codeId": "12",
+      "contractAddresses": {
+        "default": "terra1l9h80hpark5rka7vz5jtgnt838tn8e0xskug48"
+      }
+    }
+  },
+  "testnet": {
+    "counter": {
+      "codeId": "68103",
+      "contractAddresses": {
+        "default": "terra1f4h7y7a7qf4luax6zaxfqh6cm42wlfrpdmjz8g"
+      }
+    },
+    "cw20-base": {
+      "codeId": "68100",
+      "contractAddresses": {
+        "default": "terra1huctjnm8jwuwzdjqdv39txn0kkayx4pv995gz4"
+      }
+    }
+  }
+}
